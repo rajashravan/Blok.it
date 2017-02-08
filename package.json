@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "profanity-finder",
+      "/home/raja/QHacks/GTmetrix Extension"
+    ]
+  ],
+  "_from": "profanity-finder@latest",
+  "_id": "profanity-finder@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/profanity-finder",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/profanity-finder-1.0.2.tgz_1485098197617_0.327621620381251"
+  },
+  "_npmUser": {
+    "email": "r.gautamkrishna@gmail.com",
+    "name": "gautamkrishnar"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "profanity-finder",
+    "raw": "profanity-finder",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/profanity-finder/-/profanity-finder-1.0.2.tgz",
+  "_shasum": "cfd0bcc36abaf265c2c3b875a8ca46b7c1eb37fc",
+  "_shrinkwrap": null,
+  "_spec": "profanity-finder",
+  "_where": "/home/raja/QHacks/GTmetrix Extension",
+  "author": {
+    "email": "r.gautamkrishna@gmail.com",
+    "name": "Gautam krishna R",
+    "url": "http://www.github.com/gautamkrishnar"
+  },
+  "bugs": {
+    "url": "https://github.com/gautamkrishnar/profanity-finder.js/issues"
+  },
+  "dependencies": {},
+  "description": "A simple profanity finding library to detect swear language.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "cfd0bcc36abaf265c2c3b875a8ca46b7c1eb37fc",
+    "tarball": "https://registry.npmjs.org/profanity-finder/-/profanity-finder-1.0.2.tgz"
+  },
+  "gitHead": "effb051cee6d8b6dd372baee590b13919f838243",
+  "homepage": "https://github.com/gautamkrishnar/profanity-finder.js#readme",
+  "keywords": [
+    "bad",
+    "detect",
+    "finder",
+    "hate",
+    "profanity",
+    "speach",
+    "swear",
+    "words"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "gautamkrishnar",
+      "email": "r.gautamkrishna@gmail.com"
+    }
+  ],
+  "name": "profanity-finder",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamkrishnar/profanity-finder.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
