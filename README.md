@@ -1,5 +1,6 @@
 # Blok.it
-Blocks hateful comments in chrome. #HackHarassment award winner
+Blocks hateful comments in chrome
+* Winner of the #HackHarassment award by MLH 
 
 # Usage
 Just click the link below and you're set. Once installed, Blok.it will always run whenever a webpage is loaded. Any currently open pages will have to be reloaded - you're best bet is to restart chrome once the extension in installed.
