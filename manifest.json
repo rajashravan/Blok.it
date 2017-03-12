@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Blok.it",
+  "name": "Blok.it BETA",
   "description": "This extension will block profanity on a webpage, and the content surrounding it.",
-  "version": "1.2.2",
+  "version": "1.2.3",
 
   "browser_action": {
     "default_icon": {
