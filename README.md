@@ -1,6 +1,6 @@
 # Blok.it
 Blocks hateful comments in chrome
-https://chrome.google.com/webstore/detail/blokit-beta/leoclhdmpdpdnbglkfpbbgmjfbodcbhg
+* https://chrome.google.com/webstore/detail/blokit-beta/leoclhdmpdpdnbglkfpbbgmjfbodcbhg
 * Winner of the #HackHarassment award by MLH
 
 # Usage
