@@ -31,7 +31,6 @@ function all() {
 var x = document.getElementsByTagName("*");
 var i = 0;
 var s = "";
-//alert("sdf");
 debugger;
 console.log(i);
 
@@ -46,30 +45,10 @@ while (x[i]) {
 	prof = findprofanity(text);
 	if (prof) {
 		profCounter += 1;
-		/*
-		s += text;
-		s += " : ";
-		s += "Profanity Found!!";
-		s += "\n";
-		*/
 		x[i].style.color = "transparent";
-
-		//x[i].setAttribute("unselectable", "on");
 		x[i].onmousedown = "return false;";
-		//x[i].onselectstart = "return false;";
-		//x[i].innerHTML = " ";
-		//x[i].style.text-shadow = "0 0 0.5em rgba(0,0,0,0.5)";
 	}
-	//alert(x[i].innerText);
 	i += 1; //check if error here
 }
-//document.getElementsById("blockedCount").innerHTML = "sdf";
-
-//document.getElementById("blockedCount").innerHTML = "Blocked: " + profCounter;
 }
-/*
-function change() {
-	document.getElementById("blockedCount").innerHTML = "Blocked: " + profCounter;
-}
-*/
 document.addEventListener('DOMContentLoaded', all());
